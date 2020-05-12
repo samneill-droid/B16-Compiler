@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589308561 source:c:\users\sam\desktop\b16compiler\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"Util.h"
+
+1589309088 c:\users\sam\desktop\b16compiler\util.h
+	<string>
+	<vector>
+	<sstream>
+
+1589268312 source:c:\users\sam\desktop\b16compiler\util.cpp
+	"Util.h"
+
